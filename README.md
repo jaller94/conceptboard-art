@@ -2,7 +2,7 @@
 
 ![A pythagoras tree being drawn in rainbow colors](./docs/pythagoras-tree.gif)
 
-[Conceptboard](https://conceptboard.com) is a proprietary online whiteboard and I've written a script to generate some pretty art.
+[Conceptboard](https://conceptboard.com) is a proprietary online whiteboard, and I've written a script to generate some pretty art.
 
 Disclaimer: As of 2025, Conceptboard is my employer.
 
